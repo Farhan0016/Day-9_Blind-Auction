@@ -1,4 +1,4 @@
-#import logo of gamr from art.py
+#import logo of game from art.py
 from art import logo
 
 #Function to find the winner
